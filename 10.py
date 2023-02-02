@@ -19,3 +19,4 @@
 
 def atmMachine(value,bankNotes):
     
+print(atmMachine(150,[2,5,10]))

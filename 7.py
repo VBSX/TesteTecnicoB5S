@@ -11,4 +11,7 @@
 #  */
 
 def firstNonRepeatedValue(array):
-    
+    for number in array:
+        
+array = [2,2,3,1,1,6]
+print(firstNonRepeatedValue(array))

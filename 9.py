@@ -12,4 +12,21 @@
 
 
 def creditCardNumber():
+    card_number_length = 16
+    card_number = 543210
+    card_number_to_find = [0,0,0,0,0,0]
+    card_number_final = 1234
     
+    credit_finder = False
+    # while credit_finder == False:
+    for length in range(0,6):
+        
+        for number in range(0,10):
+            
+            card_number_to_find[length]=number
+            
+    print(card_number_to_find)
+                
+                
+
+creditCardNumber()
