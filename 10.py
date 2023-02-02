@@ -17,6 +17,16 @@
 #  */
 
 
+
 def atmMachine(value,bankNotes):
-    
-print(atmMachine(150,[2,5,10]))
+    lenght_notes = len(bankNotes)
+    for i in range(lenght_notes):
+        
+        
+       
+       
+   
+   
+bank_notes = [2,5,10]
+values = 150
+print(atmMachine(values,bank_notes))
