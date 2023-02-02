@@ -1,0 +1,9 @@
+In the context of object orientation, write the diferences between classes, objects, instances and interfaces:
+Escreva a diferença entre interfaces, instancias, objetos e classes no contexto de orientação a objeto:
+
+Um classe é um conjunto de parametros, atributos e funções que podem ser instanciados depois como um objeto,
+um objeto herda tudo que a classe têm, assim pode haver diversos objetos de uma mesma classe, mas todos detêm suas particularidades.
+
+Instancia é referente a qual classe está sendo instanciada, ou sejá pode existir um objeto "x" que é a instancia da classe "a"
+porém pode ter um objeto "y" que é a instancia da classe "b" ou um objeto "h" que e instancia da classe "a"
+
