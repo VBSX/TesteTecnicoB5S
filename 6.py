@@ -11,4 +11,59 @@
 #  */
 
 def arraySort(array):
-    
+    output = []
+   
+    for number in array:
+        
+        if number == 0:
+            output.append(number)
+            
+    for number in array:
+        
+        if number == 1:
+            output.append(number)
+                  
+    for number in array:
+        
+        if number == 2:
+            output.append(number)
+        
+    for number in array:
+        
+        if number == 3:
+            output.append(number)
+    for number in array:
+        
+        if number == 4:
+            output.append(number)
+            
+    for number in array:
+        
+        if number == 5:
+            output.append(number)
+            
+    for number in array:
+        
+        if number == 6:
+            output.append(number)
+              
+    for number in array:
+        
+        if number == 7:
+            output.append(number)
+            
+    for number in array:
+        
+        if number == 8:
+            output.append(number)
+            
+    for number in array:
+        
+        if number == 9:
+            output.append(number)
+                 
+    return output
+            
+            
+array = [5,0,9,8,7,4,1,4]
+print(arraySort(array))
